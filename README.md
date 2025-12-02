@@ -3,7 +3,7 @@
 <div>
 <p align="center">
 <a href="https://www.interview247.net/modules/html_css">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+<img src="https://www.interview247.net/banner.png" alt="web-and-mobile-development" width="100%">
 </a>
 </p>
 
@@ -851,6 +851,6 @@ In summary, the choice depends on semantics. An **&lt;article&gt;** is for stand
 <br>
 
 <a href="https://www.interview247.net/modules/html_css">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+<img src="https://www.interview247.net/banner.png" alt="web-and-mobile-development" width="100%">
 </a>
 </p>
